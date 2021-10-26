@@ -1,0 +1,16 @@
+{
+  "name": "stripe-coupons-generator",
+  "version": "1.0.0",
+  "description": "Generate a bunch of coupons stripe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "stripe": "^8.184.0"
+  }
+}
